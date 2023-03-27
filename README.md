@@ -10,9 +10,9 @@
 
 ## App Screenshots
 
-| Main Page | Result Page (Normal) | Result Page (UnderWeight) |
-| :-: | :-: | :-: |
-<img src="show/main.png" alt="Main Screen"/>|<img src="show/result_normal.png" alt="Result Screen Normal"/>|<img src="show/result_underweight.png" alt="Result Screen UnderWeight"/>
+Main Page|Result Page|Result Page
+:-: | :-: | :-:
+<img src="show/main.png" alt="Main Screen Light"/>|<img src="show/result_normal.png" alt="Main Screen Dark"/>|<img src="show/result_underweight.png" alt="Add Task Screen"/>
 
 </br>
 
